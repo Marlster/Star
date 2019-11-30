@@ -30,7 +30,7 @@ export default class App extends React.Component {
   render() {
     return (
       <Provider store={store}>
-        <Stream/>
+        <Stream url="https://rapid.standrewsradio.com:8081/stream/1.mp3"/>
         {/* <Counter/> */}
       </Provider>
     );
