@@ -12,7 +12,7 @@
     "expo": "^35.0.0",
     "expo-av": "~7.0.1",
     "expo-module-scripts": "^1.0.0",
-    "lodash": "^4.17.14",
+    "lodash": "^4.17.19",
     "react": "16.8.3",
     "react-native": "https://github.com/expo/react-native/archive/sdk-35.0.0.tar.gz",
     "react-native-cli": "^2.0.1",
